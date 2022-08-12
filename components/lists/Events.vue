@@ -8,8 +8,6 @@
           {{ event.Navn }}</NuxtLink>
       </li>
     </ul>
-    <h2>eventsStore fra Events.vue (komponent)</h2>
-    <pre>{{ eventsStore }}</pre>
   </div>
 </template>
 
